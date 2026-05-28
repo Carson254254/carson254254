@@ -45,11 +45,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Currently Working On
 
-![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carson254254&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carson254254&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+| Area | Details |
+|---|---|
+| 🌱 Learning | Cybersecurity, MQTT, Cloud IoT |
+| 🔨 Building | Smart Greenhouse IoT System |
+| 📚 Studying | B.Sc. Computer Science @ UoPeople |
+| 💼 Open To | Engineering roles, Internships, Freelance projects |
+| 🌍 Goal | Masters in IoT or Cybersecurity — Germany/UK/Canada |
 
 ---
 
